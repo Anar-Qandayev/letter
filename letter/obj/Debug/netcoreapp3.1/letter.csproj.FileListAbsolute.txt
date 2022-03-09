@@ -1,0 +1,14 @@
+C:\Users\localadmin\source\repos\letter\letter\obj\Debug\netcoreapp3.1\letter.csproj.AssemblyReference.cache
+C:\Users\localadmin\source\repos\letter\letter\obj\Debug\netcoreapp3.1\letter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\localadmin\source\repos\letter\letter\obj\Debug\netcoreapp3.1\letter.AssemblyInfoInputs.cache
+C:\Users\localadmin\source\repos\letter\letter\obj\Debug\netcoreapp3.1\letter.AssemblyInfo.cs
+C:\Users\localadmin\source\repos\letter\letter\obj\Debug\netcoreapp3.1\letter.csproj.CoreCompileInputs.cache
+C:\Users\localadmin\source\repos\letter\letter\bin\Debug\netcoreapp3.1\letter.exe
+C:\Users\localadmin\source\repos\letter\letter\bin\Debug\netcoreapp3.1\letter.deps.json
+C:\Users\localadmin\source\repos\letter\letter\bin\Debug\netcoreapp3.1\letter.runtimeconfig.json
+C:\Users\localadmin\source\repos\letter\letter\bin\Debug\netcoreapp3.1\letter.runtimeconfig.dev.json
+C:\Users\localadmin\source\repos\letter\letter\bin\Debug\netcoreapp3.1\letter.dll
+C:\Users\localadmin\source\repos\letter\letter\bin\Debug\netcoreapp3.1\letter.pdb
+C:\Users\localadmin\source\repos\letter\letter\obj\Debug\netcoreapp3.1\letter.dll
+C:\Users\localadmin\source\repos\letter\letter\obj\Debug\netcoreapp3.1\letter.pdb
+C:\Users\localadmin\source\repos\letter\letter\obj\Debug\netcoreapp3.1\letter.genruntimeconfig.cache
